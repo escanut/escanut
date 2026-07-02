@@ -27,7 +27,7 @@ Always working on adding more depth and breadth to what i can build :)
 - [AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/badges/5862d582-7f3b-4426-96c8-9909cb66ba1d/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/1b231b89-0c59-4e9f-a26d-822e4469c8ae/public_url)
 
-**B.Sc. Computer Science** — University of Benin, 2023
+**B.Sc. Computer Science** - University of Benin, 2023
 
 ---
 
